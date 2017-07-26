@@ -4,7 +4,7 @@ Based on course: https://www.udemy.com/react-redux-tutorial/
 
 ### Used Technologies
 
-JS6, react, redux, babel, webpack, middleware, axios, promise
+ES6, react, redux, babel, webpack, middleware, axios, promise
 
 ### Getting Started
 
